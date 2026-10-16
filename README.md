@@ -10,7 +10,8 @@ With **8+ years of experience in software testing**, I work with modern automati
 🔹 Focused on UI automation, API testing, and automation framework development  
 🔹 Exploring AI-driven testing and intelligent automation solutions  
 🔹 Interested in cloud technologies, CI/CD, and continuous quality engineering
-
+    
+https://prashanth-nagarajan.netlify.app/
 ---
 
 ## 💼 Current Profile
